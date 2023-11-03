@@ -21,9 +21,7 @@
 <br/>
 
 ## About me
-### <div align="center">  
-  
-
+<br/>
 - 🛠️ I’m currently working on [My Portfolio](https://github.com/LudivineClement/portfolio_nextjs)  
   
 
@@ -32,7 +30,6 @@
 
 - ✨ Fun fact: In both pastry and web development, I've learned that attention to detail is key. Just as a misplaced comma can be critical in code, an extra spoonful of sugar can ruin a cake!" 👩‍💻🍰😜  
 
-  </div>
 
 <br/>  
 
