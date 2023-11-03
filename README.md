@@ -8,16 +8,18 @@
 
 ## Connect with me  
 <div>
-<a href="https://github.com/LudivineClement" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ludivine-clément-45612326a" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-  
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ludivine.clement0985@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=www.ludivine-clement.dev)](www.ludivine-clement.dev)
-</div> 
+  <a href="https://linkedin.com/in/ludivine-clément-45612326a" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-right: 10px;" />
+  </a>
+  <a href="mailto:ludivine.clement0985@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.ludivine-clement.dev">
+    <img src="https://img.shields.io/badge/Website-%2343853D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</div>
+
+
 <br/>
 
 ## About me
