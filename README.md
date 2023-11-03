@@ -11,13 +11,14 @@
   <a href="https://linkedin.com/in/ludivine-clément-45612326a" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-right: 10px;" />
   </a>
-  <a href="mailto:ludivine.clement0985@gmail.com">
+  <a href="mailto:ludivine.clement0985@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-right: 10px;" />
   </a>
-  <a href="https://www.ludivine-clement.dev">
+  <a href="https://www.ludivine-clement.dev" target="_blank">
     <img src="https://img.shields.io/badge/Website-%2343853D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </div>
+
 
 
 <br/>
