@@ -21,7 +21,7 @@
 <br/>
 
 ## About me
-<br/>
+
 - 🛠️ I’m currently working on [My Portfolio](https://github.com/LudivineClement/portfolio_nextjs)  
   
 
