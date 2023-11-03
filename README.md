@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-right: 10px;" />
   </a>
   <a href="https://www.ludivine-clement.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%2343853D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Portfolio-%2343853D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
