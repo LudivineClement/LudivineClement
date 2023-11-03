@@ -23,9 +23,9 @@
 
 ## About me
 
-- 🛠️ I’m currently working on [My Portfolio](https://github.com/LudivineClement/portfolio_nextjs)  
-  
+- 🛠️ I’m currently working on <a href="https://github.com/LudivineClement/portfolio_nextjs" target="_blank">My Portfolio</a>
 
+  
 - 📚 I’m currently learning *TypeScript* and *Next.js*
   
 
