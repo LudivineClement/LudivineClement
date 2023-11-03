@@ -53,9 +53,9 @@
 
 ## Github Stats
 <br/>
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LudivineClement&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudivineClement&hide_border=true&layout=compact&theme=tokyonight" height="195" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudivineClement&hide_border=true&layout=compact&theme=tokyonight" height="170" />  
 </div>
 
 <br/> 
