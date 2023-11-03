@@ -19,8 +19,6 @@
   </a>
 </div>
 
-
-
 <br/>
 
 ## About me
@@ -34,21 +32,42 @@
 - ✨ Fun fact: In both pastry and web development, I've learned that attention to detail is key. Just as a misplaced comma can be critical in code, an extra spoonful of sugar can ruin a cake!" 👩‍💻🍰😜  
 
 
-<br/>  
+<br/>
+
+## Languages and Tools
+<br/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
+</div>
+<br/>
 
 ## Github Stats
 
-<table><tr><td valign="top" ">
+<table align="center"><tr><td valign="top">
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudivineClement&hide_border=true&layout=compact&theme=tokyonight" align="left"  />
 
-</td><td valign="top" >
+</td><td valign="top">
 
 <img src="https://github-readme-stats.vercel.app/api?username=LudivineClement&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left"  />
 
-</td></tr></table>  
+</td></tr></table>
+<br/> 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LudivineClement&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" alt="streak graph"  />
+</div>
 
-<br/>  
+
 
 
  
