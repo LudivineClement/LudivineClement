@@ -36,9 +36,18 @@
 
 <br/>  
 
+## Github Stats
 
-## Github Stats  
-<div ><img src="https://github-readme-stats.vercel.app/api?username=LudivineClement&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudivineClement&hide_border=true&layout=compact&theme=tokyonight" align="center" />
+</div>
+<br/> 
+<div>
+ <img src="https://github-readme-stats.vercel.app/api?username=LudivineClement&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" />
+</div>
 
-<br/>  
+
+<br/> 
+
+ 
 
