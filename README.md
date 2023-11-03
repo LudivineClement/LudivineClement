@@ -29,7 +29,7 @@
 - 📚 I’m currently learning *TypeScript* and *Next.js*
   
 
-- ✨ Fun fact: In both pastry and web development, I've learned that attention to detail is key. Just as a misplaced comma can be critical in code, an extra spoonful of sugar can ruin a cake!" 👩‍💻🍰😜  
+- ✨ Fun fact: In both #pastry and #webdevelopment, I've learned that attention to detail is key. Just as a misplaced comma can be critical in #code, an extra spoonful of sugar can ruin a cake! 👩‍💻🍰😜 #PastriesLove 
 
 
 <br/>
