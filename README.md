@@ -3,7 +3,13 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&size=22&duration=4000&pause=500&color=E2A2F7&center=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Ludivine%2C+from+France" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate front-end developer [Javascript | React | Tailwind]</h3>
 <br/>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LudivineClement.LudivineClement-badge" />
+<div  align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=LudivineClement.LudivineClement-badge" /></div>
+
+<br/>
+<br/>
+
+<p align="left">I'm Ludivine, a front-end web developer, and I'm constantly driven by an insatiable curiosity that leads me to explore various technological domains. However, don't be mistaken; I'm not confined behind a computer screen, even though it's often my primary source of inspiration! What truly excites me is connecting with passionate individuals, like myself, who enjoy sharing their knowledge. I'm always eager to engage in new projects, learn about emerging technologies, and collaborate with creative minds. If you share this passion, feel free to reach out to discuss our future projects together.</p>
+
 <br/>
 
 ## Connect with me  
