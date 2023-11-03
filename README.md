@@ -52,23 +52,14 @@
 <br/>
 
 ## Github Stats
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LudivineClement&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudivineClement&hide_border=true&layout=compact&theme=tokyonight" />  
+</div>
 
-<table align="center"><tr><td valign="top">
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudivineClement&hide_border=true&layout=compact&theme=tokyonight" align="left"  />
-
-</td><td valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LudivineClement&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left"  />
-
-</td></tr></table>
 <br/> 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=LudivineClement&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" alt="streak graph"  />
 </div>
-
-
-
-
- 
 
