@@ -59,7 +59,10 @@
 <br/>
 
 ## Github Stats
+<sub>If the statistics do not appear immediately, please make sure to click on any of them, then refresh the page if necessary for better visualization  : )</sub>
+
 <br/>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LudivineClement&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudivineClement&hide_border=true&layout=compact&theme=tokyonight" height="160" />  
