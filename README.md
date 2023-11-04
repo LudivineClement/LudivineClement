@@ -55,6 +55,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress logo"  />
 </div>
 <br/>
 
@@ -72,4 +74,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=LudivineClement&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" alt="streak graph"  />
 </div>
+
 
