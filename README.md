@@ -36,8 +36,7 @@
 - 📚 I’m currently learning *TypeScript* and *Next.js*
   
 
-- ✨ Fun fact: In both #pastry and #webdevelopment, I've learned that attention to detail is key. Just as a misplaced comma can be critical in #code, an extra spoonful of sugar can ruin a cake! 👩‍💻🍰😜 #PastriesLove 
-
+- ✨ Fun fact: When I'm not diving into the world of web development, I like to relax by watching crime documentaries. Nothing like a good mystery to sharpen the mind! 😱👤🔪 #TrueCrimeLovers
 
 <br/>
 
